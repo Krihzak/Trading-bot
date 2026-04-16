@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Logs (keep samples committed; ignore live runs)
+logs/bot.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
